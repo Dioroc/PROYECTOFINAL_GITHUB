@@ -1,9 +1,0 @@
-{
-	"name": "proyectoalex",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "78a2406d-cbab-419a-a4d6-e2e22483a919",
-		"tenantId": "161b7da3-de2f-412a-af06-b2aa6822419a"
-	}
-}
