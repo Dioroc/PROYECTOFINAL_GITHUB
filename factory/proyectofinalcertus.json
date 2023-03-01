@@ -1,9 +1,0 @@
-{
-	"name": "proyectofinalcertus",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "afdaa657-6129-4b9a-a65c-d4ed7b1eb5e3",
-		"tenantId": "161b7da3-de2f-412a-af06-b2aa6822419a"
-	}
-}
