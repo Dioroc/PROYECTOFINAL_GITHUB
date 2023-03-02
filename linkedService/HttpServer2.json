@@ -1,0 +1,12 @@
+{
+	"name": "HttpServer2",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Dioroc/PROYECTOFINAL_GITHUB/main/Video_Games_Sales_as_at_22_Dec_2016.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
